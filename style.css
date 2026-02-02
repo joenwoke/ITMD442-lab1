@@ -148,3 +148,15 @@ body {
 .m1 { left: 40px; }
 .m2 { left: 120px; background: #e2e2e2; }
 .m3 { left: 200px; background: #ededed; }
+
+/* Features */
+.features-section {
+  background: #f2f2f2;
+  padding: 25px 0 40px;
+}
+
+.features-grid {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+}
