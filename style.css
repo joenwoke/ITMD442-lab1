@@ -131,3 +131,6 @@ body {
   position: absolute;
   top: 25px;
 }
+
+.cloud-1 { right: 35px; }
+.cloud-2 { right: 80px; top: 45px; width: 40px; }
