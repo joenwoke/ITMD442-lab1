@@ -68,3 +68,16 @@ body {
 .btn-solid:hover {
   background: #1f2327;
 }
+
+.btn-outline {
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+.btn-outline:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.btn-wide {
+  width: 100%;
+}
