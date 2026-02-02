@@ -81,3 +81,12 @@ body {
 .btn-wide {
   width: 100%;
 }
+
+/* Hero */
+.hero {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  padding: 60px 0 30px;
+  background: #f2f2f2;
+}
