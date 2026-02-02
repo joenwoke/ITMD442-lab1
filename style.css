@@ -122,3 +122,12 @@ body {
   top: 20px;
   left: 20px;
 }
+
+.cloud {
+  width: 55px;
+  height: 16px;
+  background: #efefef;
+  border-radius: 20px;
+  position: absolute;
+  top: 25px;
+}
