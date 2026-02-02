@@ -144,3 +144,7 @@ body {
   transform: rotate(12deg);
   border-radius: 6px;
 }
+
+.m1 { left: 40px; }
+.m2 { left: 120px; background: #e2e2e2; }
+.m3 { left: 200px; background: #ededed; }
