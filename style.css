@@ -183,3 +183,22 @@ body {
   font-size: 12px;
   color: #666;
 }
+
+/* About strip */
+.about {
+  background: #e9e9e9;
+  padding: 30px 0;
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.about p {
+  font-size: 12px;
+  color: #555;
+  max-width: 700px;
+  margin: 0 auto;
+}
