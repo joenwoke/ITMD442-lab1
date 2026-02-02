@@ -160,3 +160,26 @@ body {
   gap: 20px;
   justify-content: space-between;
 }
+
+.feature-card {
+  background: #fff;
+  width: 33.33%;
+  padding: 22px 18px;
+  border: 1px solid #e6e6e6;
+  text-align: center;
+}
+
+.feature-icon {
+  font-size: 26px;
+  margin-bottom: 10px;
+}
+
+.feature-card h3 {
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.feature-card p {
+  font-size: 12px;
+  color: #666;
+}
